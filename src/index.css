@@ -1,0 +1,14 @@
+html {
+  background: #f6f7f9;
+}
+
+body {
+  min-width: 320px;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  min-height: 100svh;
+}
